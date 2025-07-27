@@ -38,11 +38,11 @@ const Header = () => {
               <span>call us at +91 98999 97386</span>
             </a>
             <a
-              href="mailto:hicarbht@gmail.com?subject=Inquiry&body=Hello%20Hicarb%20Team,"
+              href="mailto:Info@hicarbe.com?subject=Inquiry&body=Hello%20Hicarb%20Team,"
               className="hover:underline desktop-nav md:flex items-center space-x-2 relative"
             >
               <Mail className="h-4 w-4" />
-              <span>hicarbht@gmail.com</span>
+              <span>Info@hicarbe.com</span>
             </a>
           </div>
           <div className="flex items-center space-x-4">
